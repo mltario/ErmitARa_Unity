@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/landing.unity
+    guid: d30207558d8b573438b7746999828140
+  - enabled: 1
+    path: Assets/Scenes/home.unity
+    guid: 73da17c65cf946f4c956240205c170ac
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/doe.unity
+    guid: 96cc3761a8ef14648a35731318ab5bec
+  - enabled: 1
+    path: Assets/Scenes/attractions.unity
+    guid: 930fad682827219418ac9a1706df7954
+  - enabled: 1
+    path: Assets/Scenes/interactive-map.unity
+    guid: 83c95b175d291454eb80137e9abd8e89
+  - enabled: 1
+    path: Assets/Scenes/routes.unity
+    guid: 67858645d1c8155448a6bc441faf6736
+  - enabled: 1
+    path: Assets/Scenes/AR_categ.unity
+    guid: 4a68a0169cb73d54a87989a15b0764e2
+  - enabled: 1
+    path: Assets/Scenes/seat.unity
+    guid: 4e65b6e7d6e31eb4999db0c29494e62e
+  - enabled: 1
+    path: Assets/Scenes/PARK.unity
+    guid: 8ca3cf9b086388f4db5e88be0f599016
+  - enabled: 1
+    path: Assets/Scenes/HISTORICAL.unity
+    guid: 4e9718169071c53439793e2639606b1d
+  - enabled: 1
+    path: Assets/Scenes/SCHOOL.unity
+    guid: 13292ceb5c8e44244b85dff6155afa2e
+  - enabled: 1
+    path: Assets/Scenes/GOVOFF.unity
+    guid: 3a4ece5a8609f60489bb1ce4f08aa043
+  - enabled: 1
+    path: Assets/Scenes/SEASIDE.unity
+    guid: fe4388f02640dc741bd98850f5b72f33
+  - enabled: 1
+    path: Assets/Scenes/emergency.unity
+    guid: cbf378d7b529024498fc88a4c0a242cd
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 2abe534548c58114f9cc516342597220
+  - enabled: 1
+    path: Assets/Scenes/SIGNUP.unity
+    guid: 4db807f34f6b7204f874e0c4293354a3
+  - enabled: 1
+    path: Assets/Scenes/arhotspots.unity
+    guid: fae8409a2328e744298105ddfcbceac9
+  - enabled: 1
+    path: Assets/Scenes/transportation.unity
+    guid: 838785bcb43d4b04485218603f892475
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 84a237ab54bad064fac44a9870b22d10,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2def97cf4b9b473418725be1e6682c18,
+      type: 2}
+    com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 30e8e28ed62960c4d8ad893a0ed46df0,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a690dbece7ab32649ae27b69c90578d6,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 9e26860585b70044285cbc6aaf6ad9bf, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 0071fe5c9330ee844bb8c4720cdee2a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8821bae1ca4ca354fab7f22a3eaf7199,
+      type: 2}

@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: Try(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 14.59440010565641
+      Longitude: 120.9804687078327
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You are here at Metropolitan Theater
+  - Location:
+      Latitude: 14.59437733258426
+      Longitude: 120.9810993644661
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right on Arroceros Park
+  - Location:
+      Latitude: 14.59147765068764
+      Longitude: 120.9818801013771
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Continue Straight up to the intersection
+  - Location:
+      Latitude: 14.59054961400782
+      Longitude: 120.9818951699914
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 'Turn Right '
+  - Location:
+      Latitude: 14.59056836254877
+      Longitude: 120.9813917907937
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have arrived at Manila City Hall
+  - Location:
+      Latitude: 14.59057503208011
+      Longitude: 120.9808862112175
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 'Turn Left '
+  - Location:
+      Latitude: 14.58989190779462
+      Longitude: 120.9810895516446
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Go down at the underpass
+  - Location:
+      Latitude: 14.58980130608287
+      Longitude: 120.9805756699717
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Go up at the underpass
+  - Location:
+      Latitude: 14.58876309778259
+      Longitude: 120.980852097982
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Continue Straight
+  - Location:
+      Latitude: 14.58710135225262
+      Longitude: 120.9804787542158
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.5870119459802
+      Longitude: 120.9808273866611
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Left and cross the pedestrian
+  - Location:
+      Latitude: 14.58589920409991
+      Longitude: 120.9805008318442
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have arrived at National Museum of Fine Arts
+  - Location:
+      Latitude: 14.58566556837901
+      Longitude: 120.9806929796757
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58548702721915
+      Longitude: 120.9803261864984
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58513803322084
+      Longitude: 120.9796161482785
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58213267771723
+      Longitude: 120.981265277495
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58122616705647
+      Longitude: 120.9795505364551
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.57925962873332
+      Longitude: 120.9805517228602
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.57884969694944
+      Longitude: 120.9795825798577
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.57868625864032
+      Longitude: 120.9796701787255
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58070274608231
+      Longitude: 120.9786512479307
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58002889210657
+      Longitude: 120.9774027488269
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58156519013513
+      Longitude: 120.9764546809097
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58163276378618
+      Longitude: 120.976706043443
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: End Point
+  SceneViewScale: 1
