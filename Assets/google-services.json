@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593062786094",
+    "firebase_url": "https://ermitara-e34c6-default-rtdb.firebaseio.com",
+    "project_id": "ermitara-e34c6",
+    "storage_bucket": "ermitara-e34c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593062786094:android:5fe5c0adde3742ac781bbf",
+        "android_client_info": {
+          "package_name": "com.dmbfm.ErmitARa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593062786094-5tgkocjo8lo5to21cn9e1vvmkkik24bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmDzS5C_Ol8tmzzoaDXMJiRQghhoQNPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593062786094-5tgkocjo8lo5to21cn9e1vvmkkik24bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

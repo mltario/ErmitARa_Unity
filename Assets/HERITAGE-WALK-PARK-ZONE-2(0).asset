@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: HERITAGE-WALK-PARK-ZONE-2(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 14.5815474739572
+      Longitude: 120.9765607730216
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: ' You are now at the front of Rizal Monument'
+  - Location:
+      Latitude: 14.58191178085916
+      Longitude: 120.9763452890261
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 'Turn Right towards the Luneta park pathway '
+  - Location:
+      Latitude: 14.58267511552517
+      Longitude: 120.9776953250994
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach Chinese Garden at the left side
+  - Location:
+      Latitude: 14.58323080647969
+      Longitude: 120.9786956848373
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach the Rizal Dancing Fountain at the right side
+  - Location:
+      Latitude: 14.58371876292804
+      Longitude: 120.9795871410284
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach Japanese Garden at the left side
+  - Location:
+      Latitude: 14.58407590899474
+      Longitude: 120.9802159784265
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Cross the pedestrian and Turn Left
+  - Location:
+      Latitude: 14.58507119961905
+      Longitude: 120.9797339693802
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 'Turn Right towards Finace Road '
+  - Location:
+      Latitude: 14.58565435058208
+      Longitude: 120.9807239267558
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach Natural Museum of Anthropology at Right and Fine
+      Arts at the Left
+  - Location:
+      Latitude: 14.58617105768229
+      Longitude: 120.9816999432322
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Slight Right
+  - Location:
+      Latitude: 14.58580116087777
+      Longitude: 120.9826597443783
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right at Taft Avenue Luneta Pathway
+  - Location:
+      Latitude: 14.58481306163138
+      Longitude: 120.9832184874143
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will see the Philippine Relief Map at the Righ
+  - Location:
+      Latitude: 14.58364866918396
+      Longitude: 120.983862491939
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to Kalaw Avenue
+  - Location:
+      Latitude: 14.58284850626396
+      Longitude: 120.9824336192213
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach National Museum of Natural History at the right side
+  - Location:
+      Latitude: 14.58122694612883
+      Longitude: 120.979556293952
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have reached The National Library The end of Heritage Walk Thank
+      you!
+  SceneViewScale: 1

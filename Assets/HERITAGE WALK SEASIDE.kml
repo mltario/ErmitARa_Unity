@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HERITAGE WALK SEASIDE</name>
+	<gx:CascadingStyle kml:id="__managed_style_0D41FC8D8F2937BE0FC7">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5.40541</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_112B1FD2312937BE0FC6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.6036</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FDA2F83102937BE0FC6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_112B1FD2312937BE0FC6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D41FC8D8F2937BE0FC7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="007035A7932937BE0FC6">
+		<name>SEASIDE</name>
+		<LookAt>
+			<longitude>120.979439693606</longitude>
+			<latitude>14.57508331481076</latitude>
+			<altitude>1.405594982530536</altitude>
+			<heading>-0.3447819975585057</heading>
+			<tilt>2.105145773627784</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1007.183321861958</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDA2F83102937BE0FC6</styleUrl>
+		<LineString>
+			<coordinates>
+				120.9743802100032,14.58245615260216,2.284048471370252 120.9732352321448,14.58181525518355,2.500001996098757 120.9741631901995,14.58014094467427,3.188732812183837 120.9750719883723,14.57858471794616,3.320421188117131 120.9771471237317,14.57975472678469,2.962675026877994 120.9797494716087,14.5752479362558,4.089132644173974 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

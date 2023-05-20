@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: HERITAGE WALK SEAT OF OFFICE(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 14.59112086458118
+      Longitude: 120.9809050607599
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You are now at Bonifacio Monument
+  - Location:
+      Latitude: 14.59057466965927
+      Longitude: 120.9810756506488
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Left and you will see the Manila City Hall
+  - Location:
+      Latitude: 14.59057949106436
+      Longitude: 120.9818044510316
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right and cross the rainbow pedestrian lane
+  - Location:
+      Latitude: 14.59034238499081
+      Longitude: 120.9818244065813
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Straight Ahead
+  - Location:
+      Latitude: 14.59033743368232
+      Longitude: 120.982157922609
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have reached SM Manila. The end of heritage walk Thank you!
+  SceneViewScale: 1
