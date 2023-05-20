@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: SCHOOL ZONE(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 14.58535906144744
+      Longitude: 120.9832145098218
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You are now at Santa Isabel College one of the oldest schools in
+      Manila
+  - Location:
+      Latitude: 14.58559357343522
+      Longitude: 120.9830854036472
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.5857211868467
+      Longitude: 120.9830538554259
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58610113494654
+      Longitude: 120.9828418886188
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to Ayala Blvd
+  - Location:
+      Latitude: 14.58640315041473
+      Longitude: 120.9830590102062
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: At your Left you will see Philippine Normal University the top education
+      expert school in the country.
+  - Location:
+      Latitude: 14.58694971688345
+      Longitude: 120.9834679189716
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.5871518512684
+      Longitude: 120.9836165764738
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58750652798775
+      Longitude: 120.9838574788284
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have reached Technological University of the Philippines the
+      top engineering expert in the Country.
+  - Location:
+      Latitude: 14.58789409069191
+      Longitude: 120.9841245827394
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58812781225553
+      Longitude: 120.9842840113275
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58834017794343
+      Longitude: 120.9844220587893
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.5884978452118
+      Longitude: 120.9845174882263
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58851300937614
+      Longitude: 120.9846127782092
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to San Marcelino Street
+  - Location:
+      Latitude: 14.58847116085654
+      Longitude: 120.9846840905362
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58812715695564
+      Longitude: 120.9848163469743
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58767210337884
+      Longitude: 120.9850054445137
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58716536929467
+      Longitude: 120.9852596112229
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58647788601715
+      Longitude: 120.985555817865
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58595293224148
+      Longitude: 120.985793322922
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You have reach Adamson University and Its Church St. Vincent De
+      Paul
+  - Location:
+      Latitude: 14.58554102747266
+      Longitude: 120.9859731252449
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58472993061121
+      Longitude: 120.9863539762037
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to Kalaw Avenue
+  - Location:
+      Latitude: 14.58432415100955
+      Longitude: 120.985597995126
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58393755631995
+      Longitude: 120.9848589988017
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 14.58360825084075
+      Longitude: 120.9842564905203
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: Turn Left to Taft Avenue
+  - Location:
+      Latitude: 14.58307008798294
+      Longitude: 120.9845619043587
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You reached Araullo High School one og the oldest High School in
+      Manila.This is the end of the Walk
+  SceneViewScale: 1

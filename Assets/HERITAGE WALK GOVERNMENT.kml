@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HERITAGE WALK GOVERNMENT</name>
+	<gx:CascadingStyle kml:id="__managed_style_20F52C50B42937C1CE5C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5.40541</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EC85388EA2937C1CE5C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.6036</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_080BC85EB02937C1CE5C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EC85388EA2937C1CE5C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20F52C50B42937C1CE5C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0200A15A532937C1CE5B">
+		<name>GOVERMENT </name>
+		<LookAt>
+			<longitude>120.9866953788039</longitude>
+			<latitude>14.57863519510104</latitude>
+			<altitude>3.188232725487103</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>327.6072084353655</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_080BC85EB02937C1CE5C</styleUrl>
+		<LineString>
+			<coordinates>
+				120.9796823731518,14.57871973792686,3.775374663661166 120.9793175780537,14.57953782659829,3.258249013608134 120.9846415905636,14.58226674096955,2.460237204311821 120.9868820617896,14.57833923568104,3.04362339245291 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

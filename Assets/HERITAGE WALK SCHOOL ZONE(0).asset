@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: HERITAGE WALK SCHOOL ZONE(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 14.58532550143391
+      Longitude: 120.9832682099609
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You are now at Santa Isabel College
+  - Location:
+      Latitude: 14.58612018889729
+      Longitude: 120.982845185422
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to Ayala Blvd
+  - Location:
+      Latitude: 14.58643423564284
+      Longitude: 120.9830814545418
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Continue Ahead you will see the Philippine Normal University at
+      the Left side
+  - Location:
+      Latitude: 14.58751304599736
+      Longitude: 120.9838629575914
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Continue Ahead you will see the Technological University of the
+      Philippines at the right side
+  - Location:
+      Latitude: 14.58856025939146
+      Longitude: 120.9845988569344
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right to San Marcelino st.
+  - Location:
+      Latitude: 14.58594937164011
+      Longitude: 120.9857952857781
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Straight ahead you will reach Adamson Universiry at the right
+  - Location:
+      Latitude: 14.58468099430254
+      Longitude: 120.9863803613469
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn right to Kalaw Ave.
+  - Location:
+      Latitude: 14.58428021404525
+      Longitude: 120.9856169944408
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Left
+  - Location:
+      Latitude: 14.58304381858938
+      Longitude: 120.9861308546988
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: Turn Right
+  - Location:
+      Latitude: 14.58281615028068
+      Longitude: 120.9854257419257
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: You will reach Araullo university the end of the Heritage walk thank
+      you!
+  SceneViewScale: 1

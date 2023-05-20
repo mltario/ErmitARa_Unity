@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SCHOOL ZONE</name>
+	<description>school zone
+</description>
+	<gx:CascadingStyle kml:id="__managed_style_2EEA4F61092956C4B40C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5.40541</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_161F8D92222956C4B40C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.6036</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07B81B3F052956C4B40C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_161F8D92222956C4B40C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EEA4F61092956C4B40C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03AA5458BC2956C4B40A">
+		<name>Untitled Path</name>
+		<LookAt>
+			<longitude>120.9850079066299</longitude>
+			<latitude>14.58283150585285</latitude>
+			<altitude>2.711185948873074</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0004950918681</gx:fovy>
+			<range>210.0346637150506</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07B81B3F052956C4B40C</styleUrl>
+		<LineString>
+			<coordinates>
+				120.9832145098218,14.58535906144744,3.529280248298245 120.9830854036472,14.58559357343522,2.881254074663887 120.9830538554259,14.5857211868467,2.557240987846708 120.9828418886188,14.58610113494654,2.233227901029529 120.9830590102062,14.58640315041473,2.214874263318246 120.9834679189716,14.58694971688345,2.205697444462605 120.9836165764738,14.5871518512684,2.201109035034784 120.9838574788284,14.58750652798775,2.198814830320874 120.9841245827394,14.58789409069191,2.197667727963919 120.9842840113275,14.58812781225553,2.197094176785441 120.9844220587893,14.58834017794343,2.196807401196203 120.9845174882263,14.5884978452118,2.196664013401583 120.9846127782092,14.58851300937614,2.196520625606964 120.9846840905362,14.58847116085654,2.384458500136488 120.9848163469743,14.58812715695564,2.572396374666013 120.9850054445137,14.58767210337884,2.760334249195537 120.9852596112229,14.58716536929467,2.854303186460299 120.985555817865,14.58647788601715,2.901287655092681 120.985793322922,14.58595293224148,2.924779889408871 120.9859731252449,14.58554102747266,2.936526006566967 120.9863539762037,14.58472993061121,2.948272123725062 120.985597995126,14.58432415100955,2.819834864448056 120.9848589988017,14.58393755631995,2.931725548682711 120.9842564905203,14.58360825084075,3.043616232917365 120.9845619043587,14.58307008798294,2.655648598427094 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
