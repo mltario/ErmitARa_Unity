@@ -1,15 +1,16 @@
 # ErmitARa_Unity
-USER’S MANUAL
-A.	Explore 
+
+# USER’S MANUAL
+# A.	Explore 
 To access the Home Page of the app, follow these steps:
 1.	Launch the ErmitARa app on your mobile device.
 2.	Click the Explore button.
 3.	You will be directed to the Home Screen.
-B.	Welcome Banner
+# B.	Welcome Banner
 To view details about the ErmitARa app, follow these steps:
 1.	On the Home screen, locate the Welcome Banner located on the upper screen of the app.
 2.	Tap on it to see more information about the ErmitARa app.
-C.	District of Ermita
+# C.	District of Ermita
 To learn more about the District of Ermita and explore its features, follow these steps:
 1.	On the Home screen of the app, locate and click the "District of Ermita" button.
 2.	Upon clicking the button, you will be presented with a carousel gallery showcasing images related to Ermita. Next is its brief history.
@@ -21,7 +22,6 @@ To learn more about the district of Ermita and access related information, follo
 2.	Tap on the "District of Ermita" section to proceed.
 3.	On the District of Ermita page, you will find the option "Learn More About Ermita." Tap on it.
 4.	After selecting "Learn More About Ermita," three buttons will appear (Map of Manila, Transportation and Routes, and Statistics).
-
 5.	Map of Manila:
 a.	Tap on the "Map of Manila" button.
 b.	A map of Manila will be displayed, along with a list of districts.
@@ -33,7 +33,7 @@ Statistics:
 a.	Return to the "Learn More About Ermita" page.
 b.	Tap on the "Statistics" button.
 c.	Information related to the population, land area, coordinates, and barangays of Ermita will be presented.
-D.	District of Ermita – Ermita Interactive Map
+# D.	District of Ermita – Ermita Interactive Map
 To explore the Ermita district through the interactive map feature, follow these steps:
 1.	On the District of Ermita page, locate the "Ermita Interactive Map" button positioned in the lower part of the screen.
 2.	Tap on the "Ermita Interactive Map" button to access the interactive map.
@@ -45,7 +45,7 @@ To explore the Ermita district through the interactive map feature, follow these
 8.	Additionally, a list of places within the selected category will be displayed on the lower part of the screen.
 9.	Below the list of places, you will find a button labeled "AR Heritage Walk." For more information about this feature, please refer to the User's Manual section on AR Experience - AR Heritage Walk.
 
-E.	Attractions
+# E.	Attractions
 The ErmitARa mobile app provides you with a convenient way to discover interesting places in Ermita. Follow the steps below to explore the attractions and access detailed information about each place.
 1.	On the Home Screen, locate the "Attractions" button.
 2.	Tap on the "Attractions" button to proceed.
@@ -55,7 +55,7 @@ a.	Browse through the list of attractions and tap on the button corresponding to
 b.	After selecting an attraction, the app will display detailed information about that place, including its location, infrastructure, and importance.
 c.	In the upper-right corner of the screen, you will find the social media accounts associated with the attraction, a website link (if available), and the coordinate of the place in Google Maps. You can use these links to access additional information or connect with the attraction through social media.
 d.	At the bottom of the screen, you will find a mini gallery showcasing images of the location.
-F.	Emergency Hotlines
+# F.	Emergency Hotlines
 The ErmitARa mobile app provides a dedicated section for accessing emergency hotlines. Follow the steps below to navigate to the Emergency Hotline button and contact the desired emergency service.
 1.	Locate the "Emergency Hotline" button on the Home screen.
 2.	Tap on the "Emergency Hotline" button to proceed.
@@ -64,13 +64,11 @@ Selecting a Hotline:
 a.	Browse through the list and identify the specific hotline you need to contact based on the emergency situation.
 b.	Once you have identified the desired hotline, tap on the telephone number associated with that service.
 
-
-
 Initiating the Call: 
 Tapping the telephone number will initiate a call using your mobile device's call feature.
 a.	Your mobile device's call screen will be displayed, and the selected emergency hotline number will be dialed automatically.
 b.	Follow the instructions on your mobile device's call screen to complete the call to the emergency service.
-G.	AR Experience
+# G.	AR Experience
 The ErmitARa mobile app offers an exciting Augmented Reality (AR) experience to enhance your exploration of Ermita. Follow the steps below to access and navigate the AR Experience feature within the app.
 1.	Locate the "AR Experience" button on the Home Screen.
 2.	Tap on the "AR Experience" button to proceed.
@@ -79,16 +77,14 @@ Information and Instructions:
 a.	In the upper right corner of the three buttons, you will find an information icon button. Tap on this icon.
 b.	The app will display instructions and information about the three buttons. Additionally, it will present a list of 10 AR Hotspots and the routes for the AR Heritage Walk.
 c.	To close the information icon, tap on the X button located on the upper right corner of the Instructions.
-H.	AR Experience - AR Hotspots
+# H.	AR Experience - AR Hotspots
 1.	Tap on the "AR Hotspots" button to explore the available AR experiences.
 2.	A mini map will be displayed, showing the locations of the 10 AR Hotspots.
 3.	Below the mini map, you will find a list of the 10 hotspots.
 Selecting a Hotspot:
 a.	On the mini map, tap on one of the location hotspots you wish to explore further.
 b.	Detailed information about the selected place will be shown, similar to the information provided in the Attractions section of the app.
-
-
-I.	AR Experience – Explore AR
+# I.	AR Experience – Explore AR
 The Explore AR feature in the ErmitARa mobile app allows you to discover AR Objects and information about specific locations. Follow the steps below to use the Explore AR functionality.
 
 Important Note:
@@ -104,7 +100,7 @@ c.	When an AR object is detected, it will appear on your device's screen as a bo
 Instructions for Explore AR:
 a.	To access instructions for using the Explore AR feature, look for the lower-right bottom of the screen.
 b.	Tap on the instruction icon located in that area to view detailed instructions on how to navigate and use the Explore AR feature.
-J.	AR Experience – AR Heritage Walk
+# J.	AR Experience – AR Heritage Walk
 The AR Heritage Walk feature in the ErmitARa mobile app allows you to embark on a virtual heritage tour of Ermita. Follow the steps below to use the AR Heritage Walk and explore different categories of places.
 
 Important Note:
