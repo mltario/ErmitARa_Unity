@@ -1,6 +1,4 @@
-# ErmitARa_Unity
-
-# USER’S MANUAL
+# USER’S MANUAL FOR THE APP
 # A.	Explore 
 To access the Home Page of the app, follow these steps:
 1.	Launch the ErmitARa app on your mobile device.
