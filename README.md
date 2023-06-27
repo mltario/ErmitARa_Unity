@@ -1,5 +1,10 @@
 # ErmitARa FINAL DEMO VIDEO
  LINK: https://drive.google.com/file/d/1fPQfJi3hJSf770JU80ZLrr68hoNmAuMf/view?usp=sharing
+
+# Application Publisher 
+https://permz.itch.io/ermitara
+password:ERMITARAPROJECT
+
 # USER’S MANUAL FOR THE APP
 # A.	Explore 
 To access the Home Page of the app, follow these steps:
