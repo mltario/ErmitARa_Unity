@@ -3,7 +3,11 @@
 
 # Application Publisher 
 https://permz.itch.io/ermitara
+
 password:ERMITARAPROJECT
+
+# List of AR Testing Sites
+Link: https://drive.google.com/drive/folders/1_R8fodiH1wuAXk1Gxo567PRCNAzBsPI9
 
 # USER’S MANUAL FOR THE APP
 # A.	Explore 
